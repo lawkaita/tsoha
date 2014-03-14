@@ -11,7 +11,9 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "mitä vaan";// put your code here
+        echo "mitä vaan";
+        echo "dev null";
+        echo "testiteksti";// put your code here
         ?>
     </body>
 </html>
